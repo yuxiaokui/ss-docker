@@ -9,4 +9,4 @@ cd ss-docker
 
 docker build -t ss .
 
-docker run -d -p 443:26262
+docker run -d -p 443:26262 ss
